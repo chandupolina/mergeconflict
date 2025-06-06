@@ -10,3 +10,5 @@ handlers:
 env_variables:
   ENV: "production"
   DEBUG: "False"
+  DATABASE_URL: "postgresql://user:password@localhost:5432/mydatabase"
+# Optional: Uncomment the following lines if you want to use Cloud SQL
