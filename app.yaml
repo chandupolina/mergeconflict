@@ -12,5 +12,4 @@ env_variables:
   DEBUG: "False"
   DATABASE_URL: "postgresql://user:password@localhost:5432/mydatabase"
 # Optional: Uncomment the following lines if you want to use Cloud SQL
-this is sai from the future
-  # CLOUD_SQL_CONNECTION_NAME: "your-project
+hello this is chandu edited from github
